@@ -13,7 +13,9 @@ Plus d'information dans la vidéo YouTube.
 Utilisant un ESP8266, il faut installer l'IDE Arduino, et y intégrer sa prise en charge :
 
 Prise en charge de la carte ESP : http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
 Bibliothéque necessaire :
+
 	- NTPClient by Fabrice Weinberg v3.2.0
 
   
